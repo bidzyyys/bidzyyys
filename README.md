@@ -21,9 +21,3 @@ I work across **blockchain infrastructure**, **smart contract security**, and **
 - Software Engineering leadership, technical direction, team health, and cross-team collaboration.
 
 ---
-
-#### 📊 Languages & Activity
-
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidzyyys&show_icons=true&theme=catppuccin_latte&border_radius=8) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=catppuccin_latte&username=bidzyyys&layout=compact&langs_count=10&hide=coffeescript,html,css,php,solidity&exclude_repo=mean,lazyload,infotiendas-listar,NetworkDiscoverer,OptativesApp,swagup-salesforce-vscode,infotiendas,greeting_cards&count_weight=0.1&border_radius=8)](https://github.com/anuraghazra/github-readme-stats) |
-
----
